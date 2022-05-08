@@ -1,8 +1,8 @@
-# Appsus NFT Art Generator
+# Social Mint NFT Art Generator
 
 ## Introduction
 
-Appsus NFT Art Generator is a free, open source application used to generate NFT art collections from an input of base image layers. Complete with configurable layer rarity and metadata generation. Ready to upload and mint to the Ethereum or Solana blockchains!
+Social Mint NFT Art Generator is a free, open source application used to generate NFT art collections from an input of base image layers. Complete with configurable layer rarity and metadata generation. Ready to upload and mint to the Ethereum or Solana blockchains!
 
 ![app-image-generation](https://raw.githubusercontent.com/AppsusUK/NFT-Art-Generator/main/preview.gif)
 
