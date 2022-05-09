@@ -31,10 +31,10 @@ $default-theme: mat-light-theme($default-primary, $default-accent, $default-warn
 // that you are using.
 @include angular-material-theme($default-theme);
 
-$darkest-blue: #1C1922;
+$darkest-blue: #63676d;
 $whitish: #F0F0F0;
 $light-blue: #6fbbee;
-$main-blue: #047ef0;
+$main-green: rgba(85,185,71,255);
 
 /* You can add global styles to this file, and also import other style files */
 html, body {
@@ -76,12 +76,12 @@ textarea.mat-input-element {
 
 // hover underline color
 .mat-form-field-underline .mat-form-field-ripple{
-  background:linear-gradient(to right, $light-blue 0%, $main-blue 100%);
+  background:linear-gradient(to right, $light-blue 0%, $main-green 100%);
 }
 
 // focused underline color
 .mat-focused .mat-form-field-underline .mat-form-field-ripple{
-  background: linear-gradient(to right, $light-blue 0%, $main-blue 100%);
+  background: linear-gradient(to right, $light-blue 0%, $main-green 100%);
 }
 
 // focused placeholder color
@@ -97,8 +97,8 @@ textarea.mat-input-element {
   color: $whitish;
 }
 
-.mat-blueGrad {
-  background-color: $main-blue;
+.mat-greenGrad {
+  background-color: $main-green;
   color: white;
 }
 
