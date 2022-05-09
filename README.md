@@ -63,7 +63,7 @@ The application assumes these to be true in order for it to function correctly.
 ### Folder Structure
 The input folder should be structured as follows:
 
- Input Folder > Layers > Rarity Folders > Items
+Input Folder > Layers > Rarity Folders > Items
 
 Rarity Folders need to be the same across all the layers
 
@@ -71,44 +71,41 @@ Rarity Folders need to be the same across all the layers
 
 ```
 📦Input Folder
-┣ 📂Chest
+┣ 📂Accessory
 ┃ ┣ 📂common
-┃ ┃ ┗ 📜plain_shirt.png
 ┃ ┣ 📂legendary
-┃ ┃ ┗ 📜legendary_shirt.png
 ┃ ┗ 📂rare
-┃ ┃ ┗ 📜rare_shirt.png
-┣ 📂Head
+┃ ┗ 📂super_rare
+📂Background
 ┃ ┣ 📂common
-┃ ┃ ┗ 📜common_hat.png
 ┃ ┣ 📂legendary
-┃ ┃ ┗ 📜legendary_hat.png
 ┃ ┗ 📂rare
-┃ ┃ ┗ 📜rare_hat.png
-┣ 📂Left_Leg
+┃ ┗ 📂super_rare
+📂Eyes
 ┃ ┣ 📂common
-┃ ┃ ┣ 📜common_gun_holster.png
-┃ ┃ ┗ 📜standard_pocket.png
 ┃ ┣ 📂legendary
-┃ ┃ ┣ 📜biiiiig_pocket.png
-┃ ┃ ┗ 📜legendary_gun_holster.png
 ┃ ┗ 📂rare
-┃ ┃ ┣ 📜kinda_big_pocket.png
-┃ ┃ ┗ 📜rare_gun_holster.png
-┗ 📂Right_Leg
+┃ ┗ 📂super_rare
+📂Face
 ┃ ┣ 📂common
-┃ ┃ ┗ 📜leg_thing.png
 ┃ ┣ 📂legendary
-┃ ┃ ┗ 📜legendary_leg_thing.png
 ┃ ┗ 📂rare
-┃ ┃ ┗ 📜rare_leg_thing.png
-```
+┃ ┗ 📂super_rare
+📂Hands
+┃ ┣ 📂common
+┃ ┣ 📂legendary
+┃ ┗ 📂rare
+┃ ┗ 📂super_rare
+📂Mouth
+┃ ┣ 📂common
+┃ ┣ 📂legendary
+┃ ┗ 📂rare
+┃ ┗ 📂super_rare
 
 ###  Layer Names
 Individual words in a layers name must be separated by an underscore in order for the matching metadata to be generated correctly.
 ###  Item Names
 Individual words in an items name must be separated by an underscore in order for the matching metadata to be generated correctly.
-
 ###  Image Dimensions
 Images need to have the same width and height, so that the position of the image item is correct relative to the other layered image items.
 
@@ -118,16 +115,12 @@ Ask away
 ## For Developers
 
 ### Introduction
-This is an ![Angular 12](https://angularjs.org/) application using ![Electron 13](https://www.electronjs.org/), with ![this project](https://github.com/maximegris/angular-electron) as a base.
-
-### Requirements
-* NodeJs - v14.17.1 (the lowest version we've used and verified, lower versions may or may not work)
 
 ### Getting Started
 
 Clone this repository locally:
 
-> git clone https://github.com/AppsusUK/NFT-Art-Generator.git
+> git clone https://github.com/SocialMint/artcollectiongenerator.git
 
 Install dependencies with npm (used by Electron renderer process):
 > cd NFT-Art-Generator/
