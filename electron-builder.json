@@ -1,5 +1,6 @@
 {
   "asar": false,
+  "productName": "Social-mint",
   "directories": {
     "output": "release/"
   },
@@ -20,13 +21,13 @@
     }
   ],
   "win": {
-    "icon": "dist/assets/icons",
+    "icon": "dist/assets/icons/app_logo.ico",
     "target": [
       "portable"
     ]
   },
   "portable": {
-    "splashImage": "dist/assets/icons/electron.bmp"
+    "splashImage": "dist/assets/icons/logo-digital-01.png"
   },
   "mac": {
     "icon": "dist/assets/icons",

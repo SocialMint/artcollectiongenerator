@@ -31,8 +31,8 @@ $default-theme: mat-light-theme($default-primary, $default-accent, $default-warn
 // that you are using.
 @include angular-material-theme($default-theme);
 
-$darkest-blue: #63676d;
-$whitish: #F0F0F0;
+$darkest-blue: #aeafb6;
+$whitish: rgba(85,185,71,255);
 $light-blue: #6fbbee;
 $main-green: rgba(85,185,71,255);
 
