@@ -2,34 +2,31 @@
 
 ## Introduction
 
-Social Mint NFT Art Generator is a free application used to generate NFT art collections from an input of base image layers. Complete with configurable layer rarity and metadata generation. Ready to upload and mint to the Ethereum, Polygon and Biannce blockchains!
-
-![app-image-generation](https://raw.githubusercontent.com/AppsusUK/NFT-Art-Generator/main/preview.gif)
-
+Social Mint NFT Art Generator is a free application used to generate NFT art collections from an input of base image layers. Complete with configurable layer rarity and metadata generation. Ready to upload and mint to the Ethereum, and Biannce blockchains!
 
 ## Downloads
 
-[Windows](https://github.com/AppsusUK/NFT-Art-Generator/releases/download/v0.0.6/appsus-nft-art-generator.0.0.6.exe)
+[Windows English](https://github.com/AppsusUK/NFT-Art-Generator/releases/download/v0.0.6/appsus-nft-art-generator.0.0.6.exe)
 
 [Mac](https://github.com/AppsusUK/NFT-Art-Generator/releases/download/v0.0.6/appsus-nft-art-generator-0.0.6.dmg)
 
-[Linux](https://github.com/AppsusUK/NFT-Art-Generator/releases/download/v0.0.6/appsus-nft-art-generator-0.0.6.AppImage)
 
 ## Usage Quick Start
 
 1. Run the Nft Art Generator executable
-2. Click the "Load Input Folder" Button
-3. Select the folder which contains your NFT image layer folders (Output images are saved in a folder at the same level e.g. if input folder is in Desktop, the output folder will also be placed there)
-4. Adjust the layer ordering by dragging the layers to position
-5. Adjust the individual layer percentage probabilities
-6. Adjust the rarity folder percentage probabilities - **must add up to 100**
-7. Test that image creation is as expected by clicking the "Random" button
-8. Set the number of Nfts to generate
-9. Select the blockchain to generate metadata for
-10. **Optional** - Set "Art Base Name" NFT Image prefix (This only sets the image metadata name)
-11. Click Generate
-12. ???
-13. Profit
+2. LOGIN IN by submitting Name and Email address
+3. Click the "Load Input Folder" Button
+4. Select the folder which contains your NFT image layer folders (Output images are saved in a folder at the same level e.g. if input folder is in Desktop, the output folder will also be placed there)
+5. Adjust the layer ordering by dragging the layers to position
+6. Adjust the individual layer percentage probabilities
+7. Adjust the rarity folder percentage probabilities - **must add up to 100**
+8. Test that image creation is as expected by clicking the "Random" button
+9. Set the number of Nfts to generate
+10. Select the blockchain to generate metadata for
+11. **Optional** - Set "Art Base Name" NFT Image prefix (This only sets the image metadata name)
+12. Click Generate
+13. ???
+14. Profit
 
 ## How to video guide
 [![Video guide](https://img.youtube.com/vi/mXuUX2EQlJQ/0.jpg)](https://www.youtube.com/watch?v=mXuUX2EQlJQ)
