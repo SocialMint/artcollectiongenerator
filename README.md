@@ -6,7 +6,7 @@ Social Mint NFT Art Generator is a free application used to generate NFT art col
 
 ## Downloads
 
-[Windows English](https://github.com/socialmint/artcollectiongenerator/releases/download/v0.0.0/social-mint-english.exe)
+[Windows English](https://github.com/socialmint/artcollectiongenerator/releases/download/v1.0.0/social-mint-english.exe)
 
 [Mac](https://github.com/AppsusUK/NFT-Art-Generator/releases/download/v0.0.6/appsus-nft-art-generator-0.0.6.dmg)
 
