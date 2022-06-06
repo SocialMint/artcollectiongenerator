@@ -36,7 +36,7 @@ Social Mint NFT Art Generator is a free application used to generate NFT art col
 14. Profit
 
 ## How to video guide
-[![Video guide](https://youtu.be/IAGK_2NzvlY)
+[![Video guide]([https://youtu.be/IAGK_2NzvlY](https://www.youtube.com/watch?v=IAGK_2NzvlY)
 
 ## Concepts
 ### Layer
