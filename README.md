@@ -2,6 +2,7 @@
 
 ## Introduction
 
+
 Social Mint NFT Art Generator is a free application used to generate NFT art collections from an input of base image layers. Complete with configurable layer rarity and metadata generation. Ready to upload and mint to the Ethereum, and Biannce blockchains!
 
 ## Downloads
